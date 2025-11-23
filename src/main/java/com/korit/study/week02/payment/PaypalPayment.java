@@ -1,4 +1,4 @@
-package ct.week02.payment;
+package com.korit.study.week02.payment;
 
 public class PaypalPayment implements Payment{
 

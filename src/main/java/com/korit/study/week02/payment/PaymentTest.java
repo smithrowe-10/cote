@@ -1,4 +1,4 @@
-package ct.week02.payment;
+package com.korit.study.week02.payment;
 
 public class PaymentTest {
 	public static void main(String[] args) {

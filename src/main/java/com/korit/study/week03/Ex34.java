@@ -1,4 +1,4 @@
-package ct.week03;
+package com.korit.study.week03;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -54,7 +54,6 @@ class ArrayQueue{
 	private int front; 		//배열의 맨앞 커서
 	private int rear;		//배열의 맨뒤 커서
 	
-	public ArrayQueue() {}
 	public ArrayQueue(int max) {
 		this.max = max;
 		this.cnt = this.front = this.rear = 0;

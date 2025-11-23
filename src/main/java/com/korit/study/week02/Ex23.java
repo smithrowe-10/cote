@@ -1,4 +1,5 @@
-package ct.week02;
+package com.korit.study.week02;
+
 
 import java.util.ArrayList;
 import java.util.LinkedList;

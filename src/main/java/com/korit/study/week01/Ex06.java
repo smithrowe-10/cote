@@ -1,4 +1,4 @@
-package ct.week01;
+package com.korit.study.week01;
 /**
  * 반복문 for
  */

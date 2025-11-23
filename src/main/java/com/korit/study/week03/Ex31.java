@@ -1,4 +1,5 @@
-package ct.week03;
+package com.korit.study.week03;
+
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package ct.week01;
+package com.korit.study.week01;
 /**
  * 변수 
  */
@@ -10,9 +10,9 @@ public class Ex01 {
 		int _a = 0, $A = 0;
 		
 		//사용불가능 변수
-		int 0a = 0, a 0 = 0;
-		int new = 0;
-		int for = 0, do = 0;
+//		int 0a = 0, a 0 = 0;
+//		int new = 0;
+//		int for = 0, do = 0;
 				
 	}
 }

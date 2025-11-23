@@ -1,4 +1,4 @@
-package ct.week02;
+package com.korit.study.week02;
 /**
  * 게시판
  */
