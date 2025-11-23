@@ -25,7 +25,6 @@ public class Ex36 {
             queue.poll();
 
             queue.add(queue.poll());
-
         }
 
         System.out.println(queue.peek());
