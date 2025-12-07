@@ -14,5 +14,6 @@ public class Ex54 {
         Arrays.sort(arr);
         int idx = Arrays.binarySearch(arr, n);
         System.out.println(idx);
+
     }
 }
