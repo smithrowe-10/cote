@@ -1,6 +1,7 @@
 package com.korit.study.week05;
 
 import java.util.Arrays;
+import java.util.Objects;
 
 public class Ex56 {
     public static void main(String[] args) {
@@ -11,7 +12,6 @@ public class Ex56 {
         selectionSort(x);
         System.out.println("선택 정렬 후");
         System.out.println(Arrays.toString(x));
-
     }
 
     // i번 인덱스와 i+1번인덱스를 계속 비교해서 작은수가 앞에 오게끔 하는 로직
